@@ -1,15 +1,7 @@
 # Fedora Video Freeze Fix
 
-- This command refreshes the repository indexes and updates all the packages to their latest versions.
+1. sudo dnf upgrade --refresh
 
-  ```Bash
-  sudo dnf upgrade --refresh
-  ```
+2. sudo dnf install ffmpeg-free
 
-- ```Bash
-  sudo dnf install ffmpeg-free
-  ```
-
-- ```Bash
-  sudo dnf install ffmpeg-free-devel
-  ```
+3. sudo dnf install ffmpeg-free-devel
