@@ -25,5 +25,5 @@
 
 ## Useful Links
 
-- https://askubuntu.com/questions/1395148/pc-wakes-up-immediately-after-suspend
-- https://www.youtube.com/watch?v=kUYyzlixfDg
+- <https://askubuntu.com/questions/1395148/pc-wakes-up-immediately-after-suspend>
+- <https://www.youtube.com/watch?v=kUYyzlixfDg>
