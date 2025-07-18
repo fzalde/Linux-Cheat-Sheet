@@ -2,6 +2,6 @@
 
 1. ```sudo dnf upgrade --refresh```
 
-2. sudo dnf install ffmpeg-free
+2. ```sudo dnf install ffmpeg-free```
 
-3. sudo dnf install ffmpeg-free-devel
+3. ```sudo dnf install ffmpeg-free-devel```
